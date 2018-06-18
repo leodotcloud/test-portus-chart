@@ -1,5 +1,5 @@
 dependencies:
 - name: mariadb
-  version: 3.0.3
-  repository: "file://../../mariadb/v3.0.3"
+  version: 2.0.1
+  repository: "file://../../mariadb/v2.0.1"
   condition: mariadb.enabled
